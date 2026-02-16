@@ -43,10 +43,11 @@ This project implements a 5-DOF robotic arm controlled using Raspberry Pi and Py
 | Wrist Pitch | SG90 | GPIO 21 |
 | Gripper | SG90 | GPIO 22 |
 
-*(Based on wiring diagram from project)*
+## 🔧 Wiring Diagram
+![Wiring](assets/wiring.png)
 
-## 📸 Demo
-![Robotic Arm](assets/demo.png)
+
+
 
 ## ▶️ How to Run
 
