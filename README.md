@@ -12,7 +12,7 @@ This project implements a 5-DOF robotic arm controlled using Raspberry Pi and Py
 - Single 5V power supply operation  
 
 ## 🛠️ Hardware Components
-- Raspberry Pi 3  
+- Raspberry Pi 4
 - MG995 Servo Motors (3)  
 - SG90 Servo Motors (3)  
 - 5V 2.5A Power Supply  
